@@ -4,4 +4,6 @@ The data is downloaded from http://insideairbnb.com/get-the-data.html and is fro
 
 There are 4 datasets used in this analysis:
 1) Listings - Detailed Listing Data for Amsterdam
-2) 
+2) Reviews - Detailed Review data for listins in Amsterdam
+3) Neighbourhoods - Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+4) 
