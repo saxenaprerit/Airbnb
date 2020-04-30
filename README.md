@@ -6,4 +6,6 @@ There are 4 datasets used in this analysis:
 1) Listings - Detailed Listing Data for Amsterdam
 2) Reviews - Detailed Review data for listins in Amsterdam
 3) Neighbourhoods - Neighbourhood list for geo filter. Sourced from city or open source GIS files.
-4) 
+4) Calendar - Detailed Calendar Data for listings in Amsterdam
+
+
