@@ -12,5 +12,4 @@ There are 4 datasets used in this analysis:
 Exploratory data analysis includes:
 
 -> Listings by room type
-
 -> Cost by room type
