@@ -9,3 +9,6 @@ There are 4 datasets used in this analysis:
 4) Calendar - Detailed Calendar Data for listings in Amsterdam
 
 
+Exploratory data analysis includes:
+-> Listings by room type
+-> Cost by room type
