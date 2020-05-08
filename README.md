@@ -14,3 +14,5 @@ Exploratory data analysis includes:
 -> Listings by room type
 
 -> Cost by room type
+
+-> Availability by number of listings
