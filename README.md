@@ -16,3 +16,19 @@ Exploratory data analysis includes:
 -> Cost by room type
 
 -> Availability by number of listings
+
+-> Neighbourhood wise reviews per month
+
+-> Distribution of prices
+
+-> Neighbourhood wise listings
+
+-> Month wise review trends
+
+-> Correlation between listings, # of reviews and prices
+
+-> Map of listings and prices
+
+Feel free to comment and share feedback on the analysis.
+
+
