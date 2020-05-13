@@ -31,4 +31,6 @@ Exploratory data analysis includes:
 
 Feel free to comment and share feedback on the analysis.
 
+Also, do check out the blog on https://medium.com/@prerit.saxena
+
 Author: Prerit Saxena
